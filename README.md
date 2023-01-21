@@ -20,7 +20,7 @@ This re-architecture will help us with following benefits:
   1.  Login to AWS Account
   2.  Create following services in AWS:
       - Key pair
-      - Secuirty Group- For Backend Services "Be careful about security groups, we will discuss below"
+      - Secuirty Group- For Backend Services 
       - Amazon Elastic Cache- Memcached
       - Amazon Active MQ
   3.  Create Elastic Beanstalk Environemnt
