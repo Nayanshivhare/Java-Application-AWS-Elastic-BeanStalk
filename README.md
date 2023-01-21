@@ -40,23 +40,32 @@ This re-architecture will help us with following benefits:
   
   # Screenshots on Implementation
   ## Create Elastic Beanstalk Environemnt
-   ![image](https://user-images.githubusercontent.com/66699491/213845414-ed84e4ad-4ed4-42a9-8ce7-daa975d85a41.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845423-aedeee78-661a-4a9b-ba05-1a1e06787ab6.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845441-9c2aa349-1f7b-465d-98ad-7b8a85dd4cee.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845449-d72b85b6-17c5-4c7a-b2c9-17fd623b53ee.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845464-a44bf511-8b19-4a61-8dc8-bee8a1bd3080.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845469-14b29a5a-8b30-42b0-bdd7-3a9a2482dd49.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845477-2ab25a78-94af-432d-8100-db68b39f2250.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845478-69b8fa10-55d4-485f-b8d7-e6a4dcd40780.png)
-   ![image](https://user-images.githubusercontent.com/66699491/213845482-22ab6a22-efee-49ff-b6e2-2bb52091cb4f.png)
-  
+  <img src="https://user-images.githubusercontent.com/66699491/213845414-ed84e4ad-4ed4-42a9-8ce7-daa975d85a41.png" width="800" height="400">
+   <img src="https://user-images.githubusercontent.com/66699491/213845414-ed84e4ad-4ed4-42a9-8ce7-daa975d85a41.png" width="800" height="400">
+  <img src="https://user-images.githubusercontent.com/66699491/213845423-aedeee78-661a-4a9b-ba05-1a1e06787ab6.png" width="800" height="600">
+  <img src="https://user-images.githubusercontent.com/66699491/213845441-9c2aa349-1f7b-465d-98ad-7b8a85dd4cee.png" width="800" height="600">
+  <img src="https://user-images.githubusercontent.com/66699491/213845449-d72b85b6-17c5-4c7a-b2c9-17fd623b53ee.png" width="800" height="400">
+   <img src="https://user-images.githubusercontent.com/66699491/213845464-a44bf511-8b19-4a61-8dc8-bee8a1bd3080.png" width="800" height="400">
+   
+   <img src="https://user-images.githubusercontent.com/66699491/213845469-14b29a5a-8b30-42b0-bdd7-3a9a2482dd49.png" width="800" height="400">
+   <img src="https://user-images.githubusercontent.com/66699491/213845477-2ab25a78-94af-432d-8100-db68b39f2250.png" width="800" height="400">
+   <img src="https://user-images.githubusercontent.com/66699491/213845478-69b8fa10-55d4-485f-b8d7-e6a4dcd40780.png" width="800" height="400">
+   <img src="https://user-images.githubusercontent.com/66699491/213845482-22ab6a22-efee-49ff-b6e2-2bb52091cb4f.png" width="800" height="400">
+
+
+
+
+
+
+
   ## Security Group Configuration
   
   ## Creating RDS
-  ![image](https://user-images.githubusercontent.com/66699491/213846037-092f11d3-68ea-47f0-ad6e-2dc8f6bd0961.png)
-  ![image](https://user-images.githubusercontent.com/66699491/213846039-e920da58-1768-4945-becd-ee7d3cefe2d2.png)
-  ![image](https://user-images.githubusercontent.com/66699491/213846045-e7d3dda1-c2dd-4ff4-8678-5677625055b4.png)
-  ![image](https://user-images.githubusercontent.com/66699491/213846053-441e00a9-7955-4e91-af4b-d1b3471113cc.png)
+  <img src="https://user-images.githubusercontent.com/66699491/213846037-092f11d3-68ea-47f0-ad6e-2dc8f6bd0961.png" width="550" height="400">
+  <img src="https://user-images.githubusercontent.com/66699491/213846039-e920da58-1768-4945-becd-ee7d3cefe2d2.png" width="550" height="400">
+  <img src="https://user-images.githubusercontent.com/66699491/213846045-e7d3dda1-c2dd-4ff4-8678-5677625055b4.png" width="550" height="550">
+  <img src="https://user-images.githubusercontent.com/66699491/213846053-441e00a9-7955-4e91-af4b-d1b3471113cc.png" width="550" height="550">
+ 
   ![image](https://user-images.githubusercontent.com/66699491/213846059-726bcadd-3a73-4fdf-a942-ee03805d5c56.png)
   ![image](https://user-images.githubusercontent.com/66699491/213846293-6bfa59e0-009f-417a-8d3d-cb04984bc982.png)
   ![image](https://user-images.githubusercontent.com/66699491/213846317-78052053-e675-4f6d-a327-0c2c59cc9773.png)
