@@ -51,14 +51,6 @@ This re-architecture will help us with following benefits:
    <img src="https://user-images.githubusercontent.com/66699491/213845477-2ab25a78-94af-432d-8100-db68b39f2250.png" width="800" height="400">
    <img src="https://user-images.githubusercontent.com/66699491/213845478-69b8fa10-55d4-485f-b8d7-e6a4dcd40780.png" width="800" height="400">
    <img src="https://user-images.githubusercontent.com/66699491/213845482-22ab6a22-efee-49ff-b6e2-2bb52091cb4f.png" width="800" height="400">
-
-
-
-
-
-
-
-  ## Security Group Configuration
   
   ## Creating RDS
   <img src="https://user-images.githubusercontent.com/66699491/213846037-092f11d3-68ea-47f0-ad6e-2dc8f6bd0961.png" width="550" height="400">
@@ -150,12 +142,12 @@ This re-architecture will help us with following benefits:
 ![image](https://user-images.githubusercontent.com/66699491/213847588-f6261965-101b-4cd0-8d11-d255ab05e05a.png)
 
 
-## Using DNS to create CNAME and configure Application Load Balancer
+## Configure Application Load Balancer
 ![image](https://user-images.githubusercontent.com/66699491/213847812-ffd93fa7-eda2-4a7d-9cd5-0a5d1a3e980b.png)
 ![image](https://user-images.githubusercontent.com/66699491/213847825-23999d29-9258-438f-9e93-5dd64085540f.png)
 ![image](https://user-images.githubusercontent.com/66699491/213847828-55bc8070-a53e-4bb4-9dfa-a87e32c149fb.png)
 ![image](https://user-images.githubusercontent.com/66699491/213847832-e538842d-4e81-4e0a-b7e0-59de6f2d6151.png)
-### Click to apply
+  #### Click to apply
 
 ## Route53 to create CNAME record
 
@@ -177,56 +169,3 @@ This re-architecture will help us with following benefits:
 ![image](https://user-images.githubusercontent.com/66699491/213847940-853066a2-efb8-4378-ad70-6fc370c6eaeb.png)
 ![image](https://user-images.githubusercontent.com/66699491/213847944-c2304e1f-0bdc-4001-b039-7678fa8aaff7.png)
 ![image](https://user-images.githubusercontent.com/66699491/213847949-75d1a535-b273-415c-bba6-a86bf634417c.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-    
